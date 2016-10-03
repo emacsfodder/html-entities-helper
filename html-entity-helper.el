@@ -1,7 +1,7 @@
 ;;; html-entity-helper.el --- Insert a HTML entity at point, selecting from a list.
 
 ;; Author: Jason Milkins <jasonm23@@gmail.com>
-
+;; Version: 0.1.0
 ;; URL: https://github.com/ocodo/.emacs.d/tree/master/plugins/html-entity-helper.el
 
 ;; This program is free software; you can redistribute it and/or modify
